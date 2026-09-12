@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am learning  IT development and taking the RS School course.
+I am learning web development and taking the RS School course.
 My goal is to build practical skills in HTML, CSS, JavaScript,
 and Git, and to create useful web applications.
 
