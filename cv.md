@@ -35,12 +35,12 @@ console.log(sum(2, 3)); // 5
 
 ## Experience
 
-[I work in dental clinic as manager for 5 years]
+I work in dental clinic as manager for 5 years
 
 ## Education
 
 - [Girne American University , healthcare management, graduation year 2026]
-- RS School — [Full-Stack JavaScript 2026 Q3], in progress
+- RS School — Full-Stack JavaScript 2026 Q3, in progress
 
 ## Languages
 
