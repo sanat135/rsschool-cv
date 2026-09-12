@@ -1,5 +1,5 @@
 # [Sanat Balken]
-
+![Profile photo](photo.jpg)
 ## Contacts
 
 - Location: Astana, Kazakhstan
