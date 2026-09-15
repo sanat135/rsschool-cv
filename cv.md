@@ -1,11 +1,11 @@
-# [Sanat Balken]
+# Sanat Balken
 <img src="photo.jpg" alt="Profile photo" width="200">
 ## Contacts
 
 - Location: Astana, Kazakhstan
-- Email: [sanat130501@gmail.com]
-- GitHub: [https://github.com/sanat135]
-- Discord: [sanat13]
+- Email: sanat130501@gmail.com
+- GitHub: https://github.com/sanat135
+- Discord: sanat13
 
 ## About Me
 
